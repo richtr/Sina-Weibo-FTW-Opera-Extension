@@ -1,4 +1,4 @@
-// Sina Weibo From Translate
+// Sina Weibo Form Picker/Filler For Weibo Extension
 // v0.1
 
 // Copyright (C) 2012 by Rich Tibbett (rich.tibbett@gmail.com)
@@ -30,7 +30,7 @@
 // v0.1 (2012-04-01)
 // - Initial version
 
-(function(window, undefined) {
+(function( window, undefined ) {
   
   var document = window.document;
   
@@ -51,11 +51,11 @@
       // register transaction with background process
       opera.extension.postMessage({
         action: "registerTransaction",
-        id: transId
+        elementId: transId
       });
     
       // open translate
-      window.open("http://translate.google.com/?weibo_translate&id=" + transId, "weiboTranslateWin");      
+      window.open("http://translate.google.com/?weibo_translate=enabled&weibo_element_id=" + transId, "weiboTranslateWin");      
       
     }
     
@@ -66,12 +66,12 @@
     
     if(msg.data.action == "deliverTransaction") {
       
-      if(transactions[msg.data.id]) {
+      if(transactions[msg.data.elementId]) {
         
-        transactions[msg.data.id].value = msg.data.translatedValue;
-        transactions[msg.data.id].focus();
+        transactions[msg.data.elementId].value = msg.data.translatedValue;
+        transactions[msg.data.elementId].focus();
         
-        delete transactions[msg.data.id];
+        delete transactions[msg.data.elementId];
         
       }
       
@@ -79,4 +79,4 @@
     
   }, false);
   
-})(window);
+})( window );

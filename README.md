@@ -11,4 +11,4 @@ allowing you to say something in your native language and have that posted on [w
 
 This is a work in progress to connect disparate global voices. 
 
-If we communicate then we will be friends - united by our similarities and not divided by our differences.
+If we communicate then we will forever be friends. United in our similarities. Not divided by our differences.
