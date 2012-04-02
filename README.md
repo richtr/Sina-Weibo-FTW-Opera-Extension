@@ -15,8 +15,8 @@ conversations.
 Usage
 -----
 
-1. [opera.com/browser](Install Opera) (if you don't already have it).
-2. Click [https://github.com/richtr/Sina-Weibo-FTW-Opera-Extension/zipball/master](here) (or on the 'ZIP' icon above) to download this repository as a ZIP file.
+1. [Install Opera](http://opera.com/browser) (if you don't already have it).
+2. Click [here](https://github.com/richtr/Sina-Weibo-FTW-Opera-Extension/zipball/master) (or on the 'ZIP' icon above) to download this repository as a ZIP file.
 3. Rename the downloaded ZIP file in your file system so that it ends with '.oex' (e.g. Sina-Weibo-FTW-Opera-Extension.oex).
 4. Click on the renamed ZIP file in your file system to load this extension in to your Opera browser.
 5. Visit [weibo.com](weibo.com) and get started!
@@ -24,9 +24,9 @@ Usage
 License
 -------
 
-Released under the MIT License. See [https://github.com/richtr/Sina-Weibo-FTW-Opera-Extension/blob/master/LICENSE](LICENSE) for more details.
+Released under the MIT License. See [LICENSE](https://github.com/richtr/Sina-Weibo-FTW-Opera-Extension/blob/master/LICENSE) for more details.
 
 Credits
 -------
 
-Many thanks go to [http://www.thingsthemselves.com/](Jeff To) for writing the [https://github.com/jefferyto/Sina-Weibo-Translator](Sina Weibo Translator) on which this Extension heavily relies.
+Many thanks go to [Jeff To](http://www.thingsthemselves.com/) for writing the [Sina Weibo Translator User JS Script](https://github.com/jefferyto/Sina-Weibo-Translator) on which this Extension heavily relies.
