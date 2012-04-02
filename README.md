@@ -9,6 +9,5 @@ This extension for the Opera browser adds the following features for non-native 
 * A handy translate-as-you-type feature when you click in any text box available on the site 
 allowing you to say something in your native language and have that posted on [weibo.com](weibo.com) in Chinese. 
 
-This is a work in progress to connect disparate global voices. 
-
-If we communicate then we will forever be friends. United in our similarities. Not divided by our differences.
+This is a work in progress social web experiment to connect disparate global voices by enabling inclusive global 
+conversations.
