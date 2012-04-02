@@ -1,13 +1,13 @@
 Sina Weibo For The World - A social web experiment
 ==================================================
 
-This extension adds a number of features to the popular [Sina Weibo Microblogging service](weibo.com) [(weibo.com)](weibo.com) to enable non-native Chinese speakers to interact with the online Chinese community in their native language.
+This extension adds a number of features to the popular [Sina Weibo Microblogging service](http://weibo.com) [(weibo.com)](http://weibo.com) to enable non-native Chinese speakers to interact with the online Chinese community in their native language.
 
 This extension for the Opera browser adds the following features for non-native Chinese users of Sina Weibo:
 
-* A Google Translate bar that will translate all pages you visit at [weibo.com](weibo.com) in to your own native language. 
+* A Google Translate bar that will translate all pages you visit at [weibo.com](http://weibo.com) in to your own native language. 
 * A handy translate-as-you-type feature when you click in any text box available on the site 
-allowing you to say something in your native language and have that posted on [weibo.com](weibo.com) in Chinese. 
+allowing you to say something in your native language and have that posted on [weibo.com](http://weibo.com) in Chinese. 
 
 This is a work in progress social web experiment to connect disparate global voices to enable inclusive global 
 conversations.
@@ -19,7 +19,7 @@ Usage
 2. Click [here](https://github.com/richtr/Sina-Weibo-FTW-Opera-Extension/zipball/master) (or on the 'ZIP' icon above) to download this repository as a ZIP file.
 3. Rename the downloaded ZIP file in your file system so that it ends with '.oex' (e.g. Sina-Weibo-FTW-Opera-Extension.oex).
 4. Click on the renamed ZIP file in your file system to load this extension in to your Opera browser.
-5. Visit [weibo.com](weibo.com) and get started!
+5. Visit [weibo.com](http://weibo.com) and get started!
 
 License
 -------
