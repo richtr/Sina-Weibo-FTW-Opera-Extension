@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        id="http://my.opera.com/richtr/weibo_extension"
+        version="0.1">
+    <name short="Sina Weibo FTW" xml:lang="en">Sina Weibo For The World</name>
+    <description xml:lang="en">
+    This extension adds a number of features to the popular Sina Weibo Microblogging service 
+    to enable non-native Chinese speakers to interact with everyday Chinese people (and vice
+    versa!). This extension for the Opera browser adds the Google Translate bar that will 
+    translate all pages in to your own native language. It also includes a handy 
+    translate-as-you-type feature when you click in any text box available on the site 
+    allowing you to say something in your native language and have that posted in Chinese. 
+    This is a work in progress to connect disparate global voices. If we communicate then we 
+    will forever be friends.</description>
+    <author href="http://richt.me">
+    Rich Tibbett
+    </author>
+    <license href="http://www.opensource.org/licenses/mit-license.php">
+    Licensed under the MIT license
+    </license>
+    <icon src="icons/logo128.png" width="128" height="128"/>
+    <icon src="icons/logo64.png" width="64" height="64"/>
+    <content src="background.html" type="text/html" encoding="utf-8"/>
+</widget>
